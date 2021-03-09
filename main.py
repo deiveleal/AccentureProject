@@ -1,7 +1,7 @@
 from datetime import date, datetime
 from API import API as conn_API
 from BD import BD as conn_BD
-from Criar_BKP import BKP as conn_BKP
+from BKP import BKP as conn_BKP
 
 class Gerenciador(object):
 
